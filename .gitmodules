@@ -1,0 +1,3 @@
+[submodule "s3-file-upload-app"]
+	path = s3-file-upload-app
+	url = https://github.com/chisgit/s3fileuploader.git
